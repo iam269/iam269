@@ -1,4 +1,3 @@
-# 💫 About Me:
 💫 About Me<br><br>👋 Hi there! I'm passionate about programming and love creating projects that challenge me to learn something new every time.<br>💻 I enjoy turning ideas into code and building apps using C++, React, HTML, CSS, and JavaScript.<br>🚀 My goal is to keep improving, explore new tools, and grow as a developer every day.<br>⚡ I believe programming is more than just writing code — it’s a way to create, learn, and express ideas.
 
 
