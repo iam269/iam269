@@ -55,11 +55,13 @@ Here are the tools and technologies I work with:
 
 ## GitHub Stats
 
-<p align="center">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=iam269&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br>
   <img src="https://streak-stats.demolab.com/?user=iam269" alt="GitHub Streak" />
+  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iam269&layout=compact" alt="Top Languages" />
-</p>
+</div>
 
 ## Achievements
 
