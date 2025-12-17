@@ -56,6 +56,18 @@ Hi there! I'm **@iam269**, a passionate developer with a love for programming, w
 ![](https://nirzak-streak-stats.vercel.app/?user=iam269&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=iam269&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## Repos per Language
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=iam269&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=donut)
+
+## Commits per Language
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=iam269&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+## Commits per Repo (top 10)
+
+![](https://github-contributor-stats.vercel.app/api?username=iam269&limit=10&theme=dark&combine_all_yearly_contributions=true)
+
 ## Achievements
 
 - **Skills**: Full-stack development, Unity game dev, React & Node.js, MongoDB, Git & GitHub
@@ -67,8 +79,6 @@ Hi there! I'm **@iam269**, a passionate developer with a love for programming, w
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=iam269&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=iam269&icon=0&color=0)](https://visitcount.itsvg.in)
