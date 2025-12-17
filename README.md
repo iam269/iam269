@@ -8,6 +8,9 @@
 
 Hi there! I'm **@iam269**, a passionate developer with a love for programming, web development, and game development. I'm always eager to learn new technologies and tackle challenging projects. Whether it's building interactive websites or creating immersive games, I thrive on turning ideas into reality.
 
+# 💫 About Me:
+🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Me Programming" width="400" />
   <p><em>@iam269 coding away</em></p>
@@ -51,27 +54,28 @@ Hi there! I'm **@iam269**, a passionate developer with a love for programming, w
   <a href="https://linktr.ee/eusuntaurel1"><img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" /></a>
 </p>
 
-## GitHub Stats
-
-<div align="center">
-  <!-- Stats that work correctly on GitHub profile -->
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iam269&show_icons=true&theme=radical&count_private=true)
-  <br>
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iam269&layout=compact&theme=radical)
-</div>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=iam269&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=iam269&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=iam269&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## Achievements
 
-- **Skills**: Full-stack development, Unity game dev, React & Node.js, MongoDB, Git & GitHub  
-- **Projects**: Web apps, games, open-source contributions  
-- **GitHub Trophies**: ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=iam269&theme=radical&no-bg=true&no-frame=true)
+- **Skills**: Full-stack development, Unity game dev, React & Node.js, MongoDB, Git & GitHub
+- **Projects**: Web apps, games, open-source contributions
 
-## Profile Views
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=iam269&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-<p align="center">
-  ![Profile Views](https://komarev.com/ghpvc/?username=iam269)
-</p>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=iam269&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=iam269&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 *"Building today what I’ll be proud of tomorrow."*
