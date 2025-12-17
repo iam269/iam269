@@ -6,7 +6,7 @@
 
 ## About Me
 
-Hi there! I'm **@iam269**, a passionate developer with a love for programming, web development, and game development. I'm always eager to learn new technologies and tackle challenging projects. Whether it's building interactive websites or creating immersive games, I thrive on turning ideas into reality.
+Hi there! I'm **@iam269**, a passionate developer with a love for programming, web development and game development. I'm always eager to learn new technologies and tackle challenging projects. Whether it's building interactive websites or creating immersive games, I thrive on turning ideas into reality.
 
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Me Programming" width="400" />
