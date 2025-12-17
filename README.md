@@ -8,9 +8,6 @@
 
 Hi there! I'm **@iam269**, a passionate developer with a love for programming, web development, and game development. I'm always eager to learn new technologies and tackle challenging projects. Whether it's building interactive websites or creating immersive games, I thrive on turning ideas into reality.
 
-# 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
-
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Me Programming" width="400" />
   <p><em>@iam269 coding away</em></p>
