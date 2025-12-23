@@ -1,90 +1,78 @@
-# Hi there, I'm iam269 👋
+# 👋 Welcome to My GitHub Profile
 
-> Crafting elegant solutions, building useful tools, and sharing knowledge — one commit at a time.
+<div align="center">
+  <img src="https://img.shields.io/badge/Professional%20Banner-000000?style=for-the-badge&logo=github&logoColor=white" alt="Banner" />
+</div>
 
----
+## About Me
 
-## 🔭 About Me
-I'm a results-driven software engineer who enjoys turning ideas into production-ready systems. I focus on clean, maintainable code, excellent developer experience, and practical automation. I contribute to open source and love mentoring others.
+Hi there! I'm **@iam269**, a passionate developer with a love for programming, web development and game development. I'm always eager to learn new technologies and tackle challenging projects. Whether it's building interactive websites or creating immersive games, I thrive on turning ideas into reality.
 
-- 🔧 Currently: building [project-name](https://github.com/iam269/project-name) (replace with your repo)
-- 🌱 Learning: advanced distributed systems & developer tooling
-- ⚡ Fun: optimizing developer workflows, debugging tricky edge-cases
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Me Programming" width="400" />
+  <p><em>@iam269 coding away</em></p>
+</div>
 
----
+## Tech Toolbox
 
-## 🚀 What I Do
-- Build scalable web applications and APIs
-- Design developer-friendly CLI tools and libraries
-- Automate CI/CD and infrastructure tasks
-- Mentor engineers and write technical guides
+<p align="center">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+</p>
 
----
+## Coding Vibes
 
-## 🛠️ Top Skills
-- Languages: JavaScript / TypeScript, Python, Go (adjust to your stack)
-- Frameworks & Libraries: React, Node.js, Express, FastAPI
-- Tools & Platforms: Docker, Kubernetes, GitHub Actions, Terraform
-- Cloud: AWS | GCP | Azure (pick what applies)
+<p align="center">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="200" />
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="200" />
+  <img src="https://media.giphy.com/media/3o7TKz9bX9v9Kz7z9C/giphy.gif" width="200" />
+  <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="200" />
+</p>
 
----
+## Connect with Me
 
-## ⭐ Featured Projects
-(Replace these with your favorite repos and short descriptions)
+<p align="center">
+  <a href="https://iam269.github.io/website-personal/"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/ionita-aurel-mihai-20648536a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://instagram.com/eusuntaurel1"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="mailto:ionitaaurel32@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linktr.ee/eusuntaurel1"><img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" /></a>
+</p>
 
-- [project-name](https://github.com/iam269/project-name) — A concise one-line description of what it does and why it matters.
-- [another-repo](https://github.com/iam269/another-repo) — A library/CLI/tool to simplify X for developers.
-- [website](https://github.com/iam269/website) — Personal site / blog built with your stack of choice.
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=iam269&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=iam269&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=iam269&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
+## Achievements
 
-## 📚 Recent Writing & Talks
-- Short technical write-ups, tutorials, or presentations help others and showcase your thinking.
-- Example: "[How I built X with Y](https://your-blog.example.com/your-article)" — a short summary of the post.
+- **Skills**: Full-stack development, Unity game dev, React & Node.js, MongoDB, Git & GitHub
+- **Projects**: Web apps, games, open-source contributions
 
----
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=iam269&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-## 🤝 Open Source & Collaboration
-Happy to collaborate on:
-- Developer tooling, observability, and automation
-- APIs and SDKs
-- Mentoring and pair-programming on tricky bugs
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-If you'd like to work together, open an issue or DM me.
-
----
-
-## 📫 How to Reach Me
-- Website: [your-website.com](https://your-website.com)
-- Email: [hello@your-website.com](mailto:hello@your-website.com)
-- LinkedIn: [Your Name](https://linkedin.com/in/your-profile)
-- X / Twitter: [@yourhandle](https://twitter.com/yourhandle)
-(Replace with your preferred contact links)
-
----
-
-## 📈 GitHub
-Show your GitHub activity and top languages (optional — add badges or github-readme-stats images here).
-
----
-
-## 🧾 Resume
-If you want to include a resume link:
-- Resume: [Download PDF](https://your-website.com/resume.pdf)
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=iam269&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=iam269&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🎯 What I’m Looking For
-- Opportunities to work on developer platforms, APIs, or open-source projects that reach many developers.
-- Interesting problems around reliability, performance, and DX.
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
----
-
-## ⚙️ How to customize this README
-1. Replace placeholders (project links, social links, skills) with your real info.
-2. Add or remove sections to match your persona: publications, talks, certifications.
-3. Optionally include GitHub stats images, language cards, or a GIF to make it more lively.
-
----
-
-Thanks for visiting — if something here resonates, let's connect! 👋
+*"Building today what I’ll be proud of tomorrow."*
