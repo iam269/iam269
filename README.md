@@ -37,12 +37,12 @@ I love building interactive experiences and turning ideas into real products.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://YOUR-VERCEL-URL.vercel.app/api?username=iam269&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=iam269&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=iam269&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=iam269&theme=tokyonight" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://YOUR-VERCEL-URL.vercel.app/api/top-langs/?username=iam269&layout=compact&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iam269&layout=compact&theme=tokyonight" height="165"/>
 </p>
 
 ---
@@ -66,7 +66,7 @@ I love building interactive experiences and turning ideas into real products.
 ## 🔝 Top Contributed Repositories
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=iam269&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=iam269&limit=5&theme=tokyonight" />
 </p>
 
 ---
