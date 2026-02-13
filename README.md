@@ -29,9 +29,7 @@ I love building interactive experiences and turning ideas into real products.
 ## 🧰 Tech Toolbox
 
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=cpp,cs,js,html,css,react,nodejs,express,mongodb,unity,git,github,vscode,vercel&perline=7" />
-
 </p>
 
 ---
@@ -61,14 +59,6 @@ I love building interactive experiences and turning ideas into real products.
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=iam269&theme=tokyo-night"/>
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/iam269/github-contribution-grid-snake/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
