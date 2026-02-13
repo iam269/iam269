@@ -1,7 +1,7 @@
 # 👋 Welcome to My GitHub Profile
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Professional%20Banner-000000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20My%20GitHub%20Profile&fontSize=40&animation=fadeIn" />
 </div>
 
 <p align="center">
@@ -85,7 +85,7 @@ I love building interactive experiences and turning ideas into real products.
 
 <p align="center">
   <a href="https://iam269.github.io/website-personal/">
-    <img src="https://img.shields.io/badge/Website-000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/ionita-aurel-mihai-20648536a">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
