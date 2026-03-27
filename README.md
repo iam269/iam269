@@ -90,6 +90,9 @@ Hi there! I'm **@iam269**, a passionate developer with a love for programming, w
   <a href="https://linktr.ee/eusuntaurel1">
     <img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" />
   </a>
+  <a href="https://www.youtube.com/@CodewithAurel">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
 </p>
 
 ---
